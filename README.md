@@ -4,6 +4,8 @@ Exploratory Data Analysis of NYC Airbnb Listings Using Python.
 
 The dataset contains 22 columns and 20,770 rows, providing detailed information about Airbnb listings in New York.
 
+To overview the complete project follow the link : https://github.com/mansi234/New-York-Airbnb-EDA-Project-with-Python/commit/0bceaaa3a254a3784fbb7ae78fe2e6491941cf7c
+
 Columns:
 
 neighbourhood_group: Grouping by boroughs like Manhattan, Brooklyn, etc.
